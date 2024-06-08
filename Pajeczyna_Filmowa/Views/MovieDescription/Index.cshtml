@@ -1,0 +1,21 @@
+﻿@model Pajeczyna_Filmowa.Models.Movie
+@{
+    ViewData["Title"] = "MovieDescription";
+}
+
+<div>
+    <h1>@Model.Title</h1>
+    <p>Description: @Model.Description</p>
+    <p>Genre: @Model.Genre.Name</p>
+    <p>Director: @Model.Director.Name @Model.Director.SurName</p>
+    <p>Actors:</p>
+    <ul>
+        @foreach (var actor in Model.MovieActors)
+        {
+            <li>@actor.Actor.Name @actor.Actor.SurName</li>
+        }
+    </ul>
+    <p>Average Rating: @ViewData["AverageRating"]</p>
+    <a href="@Url.Action("Create", "Reviews")" class="btn btn-primary">Add Review</a>
+    <a href="@Url.Action("Create", "Ratings")" class="btn btn-secondary" style="margin-left: 10px;">Add Rating</a>
+</div>

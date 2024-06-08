@@ -1,0 +1,15 @@
+﻿@model Pajeczyna_Filmowa.Models.Review
+
+@{
+    ViewData["Title"] = "Movie Review";
+}
+
+<h1>Movie Description</h1>
+    <h2>Review</h2>
+    <p>Review Text: @Model.ReviewText</p>
+    <p>Review by: @Model.User?.UserName</p>
+    <p>Reviewed on: @Model.CreatedAt.ToShortDateString()</p>
+
+    <h3>Movie Details</h3>
+    <p>Title: @Model.Movie?.Title</p>
+    <p>Description: @Model.Movie?.Description</p>

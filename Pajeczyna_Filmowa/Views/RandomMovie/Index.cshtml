@@ -1,0 +1,27 @@
+﻿@model Pajeczyna_Filmowa.Models.Movie
+
+@{
+    ViewData["Title"] = "Movie Generator";
+}
+
+<h2 style="text-align:center">Movie Generator</h2>
+
+<div style="display: flex;justify-content: center;align-items: center;">
+    <form method="post" asp-action="RandomMovie" asp-controller="RandomMovie">
+        <button type="submit" class="btn btn-success">Random Movie</button>
+    </form>
+</div>
+
+@if (Model != null)
+{
+    <div id="randomMovieContainer" style="margin-top: 20px;">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">@Model.Title</h5>
+                <p class="card-text">@Model.Description</p>
+                <a href="@Url.Action("Index", "MovieDescription", new { id = Model.Id })" class="btn btn-primary">Go to Movie Description</a>
+                <a href="@Url.Action("Index", "MovieReview", new { id = Model.Id })" class="btn btn-secondary" style="margin-left: 10px;">Go to Movie Review</a>
+            </div>
+        </div>
+    </div>
+}

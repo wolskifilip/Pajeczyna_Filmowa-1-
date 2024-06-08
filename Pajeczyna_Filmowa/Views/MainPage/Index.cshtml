@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Pajeczyna_Filmowa.Models.Movie>
+
+@{
+    ViewData["Title"] = "MainPage";
+}
+
+<style>
+    .card {
+        height: 600px; 
+    }
+</style>
+
+<h1>Najwyżej ocenione filmy</h1>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-2">
+            <div class="card mb-3">
+                
+                <a href="@Url.Action("Index", "MovieDescription", new { id = item.Id })">
+                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title">
+                </a>
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                </div>
+            </div>
+        </div>
+    }
+</div>

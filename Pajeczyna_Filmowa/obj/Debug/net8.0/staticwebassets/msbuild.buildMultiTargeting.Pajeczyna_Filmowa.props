@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pajeczyna_Filmowa.props" />
+</Project>

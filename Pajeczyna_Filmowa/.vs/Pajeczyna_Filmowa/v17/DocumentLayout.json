@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\moviecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\moviecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\movieeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\movieeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\data\\migrations\\20240608204842_init13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:data\\migrations\\20240608204842_init13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\reviews\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\mainpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\randommovie\\randommovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\randommovie\\randommovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\randommovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\randommovie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\randommoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\randommoviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\moviereview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\moviereview\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\reviews\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\reviews\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\reviews\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\reviews\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\views\\moviedescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:views\\moviedescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\moviedescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\moviedescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|c:\\users\\filip\\desktop\\pajeczyna_filmowa(1)\\pajeczyna_filmowa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A36E2CE-F05E-440C-80AB-D02F3BA4E70D}|Pajeczyna_Filmowa.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieEditViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieEditViewModel.cs",
+              "RelativeToolTip": "Models\\MovieEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:11:12.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieCreateViewModel.cs",
+              "RelativeToolTip": "Models\\MovieCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:11:03.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Models\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\MovieActor.cs",
+              "RelativeToolTip": "Models\\MovieActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:10:14.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:08:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "Models\\Director.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Director.cs",
+              "RelativeToolTip": "Models\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:08:18.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:05:22.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Actor.cs",
+              "RelativeToolTip": "Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:05:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RatingsController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "Controllers\\RatingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:59:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:44:09.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:12:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Models\\Rating.cs",
+              "RelativeToolTip": "Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:26:10.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240608204842_init13.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Data\\Migrations\\20240608204842_init13.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240608204842_init13.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Data\\Migrations\\20240608204842_init13.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240608204842_init13.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:48:42.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MainPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MainPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MainPage\\Index.cshtml",
+              "RelativeToolTip": "Views\\MainPage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T18:51:41.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:52:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandomMovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\RandomMovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RandomMovieController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\RandomMovieController.cs",
+              "RelativeToolTip": "Controllers\\RandomMovieController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:48:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:06:23.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:43:07.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\RandomMovie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\RandomMovie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\RandomMovie\\Index.cshtml",
+              "RelativeToolTip": "Views\\RandomMovie\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:48:31.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RandomMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\RandomMovie\\RandomMovie.cshtml",
+              "RelativeDocumentMoniker": "Views\\RandomMovie\\RandomMovie.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\RandomMovie\\RandomMovie.cshtml",
+              "RelativeToolTip": "Views\\RandomMovie\\RandomMovie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:48:32.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:07:51.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MovieReview\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieReview\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MovieReview\\Index.cshtml",
+              "RelativeToolTip": "Views\\MovieReview\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:34:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:25:16.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:09:47.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MovieDescription\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieDescription\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\MovieDescription\\Index.cshtml",
+              "RelativeToolTip": "Views\\MovieDescription\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:02:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieDescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\MovieDescriptionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieDescriptionController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\MovieDescriptionController.cs",
+              "RelativeToolTip": "Controllers\\MovieDescriptionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:02:14.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:53:25.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\MainPageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainPageController.cs",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Controllers\\MainPageController.cs",
+              "RelativeToolTip": "Controllers\\MainPageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:51:57.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:23:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reviews\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Filip\\Desktop\\Pajeczyna_Filmowa(1)\\Pajeczyna_Filmowa\\Views\\Reviews\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reviews\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T19:24:47.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
